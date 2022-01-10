@@ -29,3 +29,28 @@ li a:hover{
     color: rgb(247, 6, 6);
     background-color: rgb(235, 241, 235);
 }
+.contact-page{
+    display: flex;
+    justify-content: center;
+}
+.contact-page div{
+    height: 500px;
+    width: 45%;
+    border: 1px solid;
+    margin: 10px;
+   padding-left: 10%;
+   text-align: justify;
+}
+.contact-page  img{
+    height: 400px;
+    padding-top: 50px;
+}
+#contact{
+    color: blue;
+    background-color: blanchedalmond;
+
+}
+#img{
+    background-color: darkgrey;
+
+}
